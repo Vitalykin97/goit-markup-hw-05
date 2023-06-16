@@ -76,6 +76,7 @@ ol {
     order: 1;
     flex-grow: 0;
     position: relative;
+    color: #404bbf;
 }
 
 .nav-list {
