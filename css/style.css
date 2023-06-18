@@ -20,6 +20,7 @@ ol {
     padding: 0;
 }
 
+
 .body-fonts {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -79,6 +80,13 @@ ol {
     color: #404bbf;
 }
 
+.nav-link.current{
+    color: tomato;
+}
+
+.nav-link::after{
+
+}
 .nav-list {
     display: flex;
     gap: 40px;
