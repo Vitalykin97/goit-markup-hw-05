@@ -500,6 +500,7 @@ ol {
     letter-spacing: 0.02em;
     color: #434455;
     height: 100px;
+    transform: translateY(100%);
 }
 
 .portfolio-link{
