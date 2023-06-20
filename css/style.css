@@ -501,6 +501,7 @@ ol {
     color: #434455;
     height: 100px;
     transform: translateY(100%);
+    transition: transform 300px linear;
 }
 
 .portfolio-link{
