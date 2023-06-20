@@ -510,6 +510,7 @@ ol {
 
 .portfolio-link-warp{
     position: relative;
+    overflow: hidden;
 }
 
 .portfolio-list-text:hover,
