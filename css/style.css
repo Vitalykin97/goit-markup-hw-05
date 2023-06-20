@@ -494,7 +494,7 @@ ol {
     margin-bottom: 8px;
 }
 
-.portfolio-list {
+.portfolio-list-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -510,8 +510,8 @@ ol {
     position: relative;
 }
 
-.portfolio-list:hover,
-.portfolio-list:focus{
+.portfolio-list-text:hover,
+.portfolio-list-text:focus{
     transform: translateY(0%);
 }
 
