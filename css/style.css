@@ -499,9 +499,6 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    height: 100px;
-    transform: translateY(100%);
-    transition: transform 300px linear;
 }
 
 .portfolio-link {
