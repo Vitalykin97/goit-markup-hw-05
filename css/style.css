@@ -527,6 +527,9 @@ ol {
     line-height: 24px;
     letter-spacing: 0.02em;
     background: #4D5AE5;
+    left: 0;
+    width: 100%; 
+    height: 100%;
 }
 
 .image-list{
