@@ -513,8 +513,8 @@ ol {
     overflow: hidden;
 }
 
-.portfolio-link:hover,
-.portfolio-link:focus {
+.portfolio-link-warp:hover,
+.portfolio-link-warp:focus {
     transform: translateY(0%);
 }
 
