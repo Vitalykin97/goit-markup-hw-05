@@ -516,6 +516,7 @@ ol {
 }
 
 .paragrahp-text {
+    display: block;
     position: absolute;
     top: 0;
     color: #F4F4FD;
