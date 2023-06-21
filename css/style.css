@@ -78,7 +78,7 @@ ol {
     flex-grow: 0;
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    color: #404bbf; 
+    color: #404bbf;
 }
 
 .nav-link.current {
@@ -103,7 +103,7 @@ ol {
 
 .nav-link:hover::after,
 .nav-link:focus::after,
-.nav-link.current::after  {
+.nav-link.current::after {
     transform: scaleX(1);
     transform-origin: left;
 }
@@ -446,10 +446,10 @@ ol {
     cursor: pointer;
     color: #4d5ae5;
     background-color: #F4F4FD;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
-    background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
-    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
-    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+        background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+        border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+        box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .button-all {
@@ -504,21 +504,21 @@ ol {
     transition: transform 300px linear;
 }
 
-.portfolio-link{
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+.portfolio-link {
+    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-link-warp{
+.portfolio-link-warp {
     position: relative;
     overflow: hidden;
 }
 
 .paragrahp-text:hover,
-.paragrahp-text:focus{
+.paragrahp-text:focus {
     transform: translateY(0%);
 }
 
-.paragrahp-text{
+.paragrahp-text {
     position: absolute;
     top: 0;
     color: #F4F4FD;
@@ -528,14 +528,14 @@ ol {
     letter-spacing: 0.02em;
     background: #4D5AE5;
     left: 0;
-    width: 100%; 
+    width: 100%;
     height: 100%;
     padding: 40px 32px;
-    transform: translateY(100%)
+    transform: translateY(100%);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.image-list{
+.image-list {
     width: calc((100% - 60px)/3);
     position: relative;
 }
@@ -591,9 +591,9 @@ img {
 
 .header-style {
     border-bottom: 1px solid #e7e9fc;
-    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 
-    0px 1px 1px rgba(46, 47, 66, 0.16), 
-    0px 1px 6px rgba(46, 47, 66, 0.08);
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .header-styles {
@@ -825,6 +825,6 @@ img {
 }
 
 .modal-close-btn:hover,
-.modal-close-btn:focus{
+.modal-close-btn:focus {
     fill: #ffffff;
 }
