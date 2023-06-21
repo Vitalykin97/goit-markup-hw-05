@@ -510,10 +510,10 @@ ol {
     overflow: hidden;
 }
 
-.portfolio-link-warp:hover,
-.portfolio-link-warp:focus {
-    transform: translateY(0%);
-}
+.portfolio-link:hover .paragrahp-text,
+.portfolio-link:focus .paragrahp-text {
+transform: translateY(0%);
+} 
 
 .paragrahp-text {
     display: block;
