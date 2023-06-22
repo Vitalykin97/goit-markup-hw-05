@@ -112,6 +112,7 @@ ol {
     display: flex;
     gap: 40px;
     margin: 0 auto;
+    text-decoration: none;
 }
 
 
