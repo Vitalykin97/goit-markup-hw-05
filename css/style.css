@@ -99,6 +99,7 @@ ol {
     transition: transform 250ms linear;
     transform: scaleX(0);
     transform-origin: right;
+    text-decoration: none;
 }
 
 .nav-link:hover::after,
